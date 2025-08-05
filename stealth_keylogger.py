@@ -1,5 +1,4 @@
 # keylogger_with_path.py
-# Educational use only
 
 import os
 import platform
